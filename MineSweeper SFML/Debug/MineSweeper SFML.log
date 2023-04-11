@@ -1,0 +1,31 @@
+﻿  MSSFMLView.cpp
+C:\Users\Juzio\source\repos\MineSweeper SFML\MineSweeper SFML\MSSFMLView.cpp(147,72): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Juzio\source\repos\MineSweeper SFML\MineSweeper SFML\MSSFMLView.cpp(147,52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Juzio\source\repos\MineSweeper SFML\MineSweeper SFML\MSSFMLView.cpp(154,71): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Juzio\source\repos\MineSweeper SFML\MineSweeper SFML\MSSFMLView.cpp(154,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Juzio\source\repos\MineSweeper SFML\MineSweeper SFML\MSSFMLView.cpp(161,71): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Juzio\source\repos\MineSweeper SFML\MineSweeper SFML\MSSFMLView.cpp(161,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Juzio\source\repos\MineSweeper SFML\MineSweeper SFML\MSSFMLView.cpp(169,72): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Juzio\source\repos\MineSweeper SFML\MineSweeper SFML\MSSFMLView.cpp(169,52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Juzio\source\repos\MineSweeper SFML\MineSweeper SFML\MSSFMLView.cpp(176,70): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Juzio\source\repos\MineSweeper SFML\MineSweeper SFML\MSSFMLView.cpp(176,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Juzio\source\repos\MineSweeper SFML\MineSweeper SFML\MSSFMLView.cpp(183,70): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Juzio\source\repos\MineSweeper SFML\MineSweeper SFML\MSSFMLView.cpp(183,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Juzio\source\repos\MineSweeper SFML\MineSweeper SFML\MSSFMLView.cpp(190,72): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Juzio\source\repos\MineSweeper SFML\MineSweeper SFML\MSSFMLView.cpp(190,52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Juzio\source\repos\MineSweeper SFML\MineSweeper SFML\MSSFMLView.cpp(197,71): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Juzio\source\repos\MineSweeper SFML\MineSweeper SFML\MSSFMLView.cpp(197,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Juzio\source\repos\MineSweeper SFML\MineSweeper SFML\MSSFMLView.cpp(204,71): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Juzio\source\repos\MineSweeper SFML\MineSweeper SFML\MSSFMLView.cpp(204,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Juzio\source\repos\MineSweeper SFML\MineSweeper SFML\MSSFMLView.cpp(211,70): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Juzio\source\repos\MineSweeper SFML\MineSweeper SFML\MSSFMLView.cpp(211,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Juzio\source\repos\MineSweeper SFML\MineSweeper SFML\MSSFMLView.cpp(218,72): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Juzio\source\repos\MineSweeper SFML\MineSweeper SFML\MSSFMLView.cpp(218,52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Juzio\source\repos\MineSweeper SFML\MineSweeper SFML\MSSFMLView.cpp(225,72): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Juzio\source\repos\MineSweeper SFML\MineSweeper SFML\MSSFMLView.cpp(225,52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Juzio\source\repos\MineSweeper SFML\MineSweeper SFML\MSSFMLView.cpp(237,73): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Juzio\source\repos\MineSweeper SFML\MineSweeper SFML\MSSFMLView.cpp(247,77): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Juzio\source\repos\MineSweeper SFML\MineSweeper SFML\MSSFMLView.cpp(247,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Juzio\source\repos\MineSweeper SFML\MineSweeper SFML\MSSFMLView.cpp(253,69): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Juzio\source\repos\MineSweeper SFML\MineSweeper SFML\MSSFMLView.cpp(263,67): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  MineSweeper SFML.vcxproj -> C:\Users\Juzio\source\repos\MineSweeper SFML\Debug\MineSweeper SFML.exe

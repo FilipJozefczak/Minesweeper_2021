@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="MineSweeperBoard.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MSBoardTextView.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MSTextController.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MSSFMLView.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="MineSweeperBoard.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MSBoardTextView.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MSTextController.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MSSFMLView.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="sprites\bomb.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="sprites\bombredbackground.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="sprites\crossedbomb.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="sprites\eight.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="sprites\empty.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="sprites\field.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="sprites\five.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="sprites\flag.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="sprites\four.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="sprites\loss.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="sprites\one.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="sprites\questionmark.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="sprites\running.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="sprites\seven.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="sprites\six.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="sprites\three.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="sprites\two.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="sprites\win.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+  </ItemGroup>
+</Project>
